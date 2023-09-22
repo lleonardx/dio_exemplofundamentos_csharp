@@ -1,0 +1,14 @@
+C:\DIO\dotnet\exemplos_fundamentos\bin\Debug\net7.0\exemplos_fundamentos.exe
+C:\DIO\dotnet\exemplos_fundamentos\bin\Debug\net7.0\exemplos_fundamentos.deps.json
+C:\DIO\dotnet\exemplos_fundamentos\bin\Debug\net7.0\exemplos_fundamentos.runtimeconfig.json
+C:\DIO\dotnet\exemplos_fundamentos\bin\Debug\net7.0\exemplos_fundamentos.dll
+C:\DIO\dotnet\exemplos_fundamentos\bin\Debug\net7.0\exemplos_fundamentos.pdb
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\exemplos_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\exemplos_fundamentos.AssemblyInfoInputs.cache
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\exemplos_fundamentos.AssemblyInfo.cs
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\exemplos_fundamentos.csproj.CoreCompileInputs.cache
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\exemplos_fundamentos.dll
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\refint\exemplos_fundamentos.dll
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\exemplos_fundamentos.pdb
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\exemplos_fundamentos.genruntimeconfig.cache
+C:\DIO\dotnet\exemplos_fundamentos\obj\Debug\net7.0\ref\exemplos_fundamentos.dll
